@@ -1,9 +1,8 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
-import './mainScreen.dart';
-import './constants/colors.dart';
+import 'package:BrokeLife/mainScreen.dart';
+import 'package:BrokeLife/constants/colors.dart';
 
 class BrokeLife extends StatefulWidget {
   @override
@@ -14,7 +13,7 @@ class _BrokeLifeState extends State<BrokeLife> {
   @override
   Widget build(BuildContext context) {
     return SplashScreen(
-      seconds: 3,
+      seconds: 1,
       backgroundColor: blWhite,
       image: Image.asset('assets/saveMoney.gif'),
       loaderColor: blOrange,

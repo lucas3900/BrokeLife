@@ -26,7 +26,9 @@ dependencies:
   splashscreen: ^1.2.0
   geolocator: ^5.3.2+2
   http: ^0.12.2
+  flutter_secure_storage: ^3.3.3
 
+  auto_size_text: ^2.1.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -49,8 +51,35 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/saveMoney.gif
-    - assets/loading.gif
+    - saveMoney.gif
+    - dollarSigns.png
+    - bbq.jpg
+    - cafe.jpg
+    - cheeseburger.png
+    - chinese.jpg
+    - coffee.jpg
+    - crepes.jpg
+    - default.png
+    - dimSum.jpg
+    - french.jpg
+    - indianFood.jpg
+    - Italian.jpg
+    - japanese.jpg
+    - latinAmerican.jpg
+    - mexican.jpg
+    - moroccanFood.jpg
+    - pizza.png
+    - sushi.jpg
+    - thai.jpg
+    - vietnameseFood.jpg
+    - bakery.jpg
+    - beverages.jpg
+    - juice.jpg
+    - donuts.jpg
+    - frozenYogurt.jpg
+    - iceCream.jpg
+    - sandwich.jpg
+    - bubbleTea.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

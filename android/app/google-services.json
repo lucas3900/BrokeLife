@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872405074243",
+    "firebase_url": "https://brokelife-25be6.firebaseio.com",
+    "project_id": "brokelife-25be6",
+    "storage_bucket": "brokelife-25be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872405074243:android:e731a6d258f58df6312ff6",
+        "android_client_info": {
+          "package_name": "com.Lucas.BrokeLife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872405074243-b16q4gt6b897at66rgrkcrainmadv9gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwk4Up0tiNP2N7yS0heafXiMvmUCv5uI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872405074243-b16q4gt6b897at66rgrkcrainmadv9gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "872405074243-q6dcpvqe7qc5omdgr5k44b4jp6m88s5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BrokeLife.BrokeLife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
