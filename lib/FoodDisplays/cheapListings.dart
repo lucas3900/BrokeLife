@@ -9,6 +9,7 @@ class CheapListings extends StatelessWidget {
   CheapListings(this.restaurantData);
   @override
   Widget build(BuildContext context) {
+    print(restaurantData[3]);
     return Container(
       color: blGrey,
       child: ListView(
